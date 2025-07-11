@@ -10,169 +10,21 @@
     ]
   },
   {
+    "objectID": "publications.html#books",
+    "href": "publications.html#books",
+    "title": "Publications",
+    "section": "Books",
+    "text": "Books",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "\nAbeba N. Turi (Ph.D.)\n",
     "section": "",
     "text": "I’m a Data Scientist and Digital Economist passionate about bridging academia and industry through teaching, research, consulting and innovation.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I’m a Data Scientist, Digital Economist, and Researcher passionate about bridging academia and industry through insightful consulting and innovation.",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About Me",
-    "section": "👋 About Me",
-    "text": "👋 About Me\nI’m a Data Scientist and Digital Economy specialist with a passion for inclusive innovation, tech policy, and AI readiness in emerging economies.\nI help organizations connect research, data, and industry impact through actionable insights and collaborative projects.",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About Me",
-    "section": "🎓 Education",
-    "text": "🎓 Education\n\nUBC Master of Data Science (MDS) 2024/25\nMSc in Economics & Finance\nPhD in Digital Economy",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "about.html#lets-connect",
-    "href": "about.html#lets-connect",
-    "title": "About Me",
-    "section": "🤝 Let’s Connect",
-    "text": "🤝 Let’s Connect\n\n📧 Email Me\n🔗 LinkedIn\n🌐 Website",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Test",
-    "section": "",
-    "text": "&lt;img src=\"/images/gus.png\" alt=\"GUS\"&gt;"
-  },
-  {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: abeba.nigussie@ucanwest.ca\nLinkedIn"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "AI in Risk Analytics\n      \n        Two principal theme: (1) AI-Enhanced Credit Scoring- Using mobile usage and social behavior data to unlock access to credit in underbanked regions (MENA). (2) AI for Enhanced Financial Risk Management- Development of a framework to enhance financial risk management in volatile markets. Specifically, we investigate how AI techniques can be effectively integrated to enhance financial risk management with an emphasis on scalability, explainability, and robustness in real-world applications.  \n        Goal: Inclusive, explainable AI for financial inclusion.\n      \n    \n  \n\n\n  \n  \n    \n    \n       Creative Destruction Lab Venture Accelerator Program Dashboard\n      \n        Developing a predictive analytics dashboard to model and visualize venture success through machine learning and Statistical techniques to inform business and investment decisions. It is an interdisciplinary project with teams from diverse academic background, integrating domain knowledge to startup ecosystems \n      \n    \n  \n\n \n\n  \n    \n  \n  \n    Trader’s Copilot: Trading Signals for Stock Markets\n    \n      Python package for ARIMA, Prophet, and LSTM-based financial forecasting with visual diagnostics.  \n    \n  \n\n\n  \n\n  \n    \n  \n  \n    Vehicle Dashboard\n    \n      Real-time dashboard for Canadian car market analysis using Dash. Includes insights on price and performance trends.\n    \n  \n\n\n\n \n\n  \n  \n    AI Decision-Making Systems and Algorithmic Futures (Upcoming Project)\n    \n      The project explores six main themes:  \n      (1) the evolution of the algorithm economy and its transformative role in governance, industry, finance, labor, and society;  \n      (2) Algorithmic decision-making systems including reinforcement learning for policy optimization and resource allocation;  \n      (3) Bayesian decision theory in high-stakes environments (e.g., healthcare, finance);  \n      (4) Data-centric AI and algorithmic infrastructure;  \n      (5) Algorithmic bias, fairness, and social impact modeling, along with responsible AI and secure deployment; and  \n      (6) E-waste: allocative efficiency in the algorithmic economy.\n      Part of the\n      \n        GUS Fellowship Program\n      .",
-    "crumbs": [
-      "Projects"
-    ]
-  },
-  {
-    "objectID": "projects.html#projects-showcase",
-    "href": "projects.html#projects-showcase",
-    "title": "Projects",
-    "section": "",
-    "text": "&lt;img src=\"images/creditscore.png\" alt=\"Credit Scoring\" class=\"project-img\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  &lt;h3&gt;AI-Enhanced Credit Scoring in Data-Poor Environments&lt;/h3&gt;\n  &lt;p&gt;\n    Using mobile usage and social behavior data to unlock access to credit in underbanked regions.\n    &lt;br&gt;&lt;strong&gt;Goal:&lt;/strong&gt; Inclusive, explainable AI for financial inclusion.\n  &lt;/p&gt;\n&lt;/div&gt;\n\n\n\n&lt;img src=\"images/democratizingAI.png\" alt=\"Democratizing AI\" class=\"project-img\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  &lt;h3&gt;Democratizing AI Innovation&lt;/h3&gt;\n  &lt;p&gt;\n    Research on global disparities in AI with components like:\n    &lt;strong&gt;DeFi Literacy Hub&lt;/strong&gt; and &lt;strong&gt;Web3 Business Models&lt;/strong&gt;.\n  &lt;/p&gt;\n&lt;/div&gt;\n\n\n\n&lt;img src=\"images/cldventure.png\" alt=\"CDL Dashboard\" class=\"project-img\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  &lt;h3&gt;UBC-MDS Dash App CDL Venture Success Dashboard&lt;/h3&gt;\n  &lt;p&gt;\n    Real-time dashboard for Canadian car market analysis using Dash.\n  &lt;/p&gt;\n&lt;/div&gt;\n\n\n\n&lt;img src=\"images/traderscopilot.png\" alt=\"Trader's Copilot\" class=\"project-img\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  &lt;h3&gt;Trader’s Copilot – Financial Forecasting Package&lt;/h3&gt;\n  &lt;p&gt;\n    Python package for ARIMA, Prophet, and LSTM-based financial forecasting with visual diagnostics.\n  &lt;/p&gt;\n&lt;/div&gt;\n\n\n\n&lt;img src=\"images/vehicle.png\" alt=\"Vehicle Dashboard\" class=\"project-img\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  &lt;h3&gt;Vehicle Performance Dashboard&lt;/h3&gt;\n  &lt;p&gt;\n    Interactive analytics dashboard for vehicle performance and price tracking.\n  &lt;/p&gt;\n&lt;/div&gt;\n\n\n\n&lt;img src=\"images/ai_risk_framework.png\" alt=\"AI Risk Framework\" class=\"project-img\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  &lt;h3&gt;AI Risk Framework&lt;/h3&gt;\n  &lt;p&gt;\n    A robust AI framework for analyzing financial risk: scalability, volatility, and explainability.\n  &lt;/p&gt;\n&lt;/div&gt;\n\n\n\n&lt;img src=\"images/blockchain_ubc_banner.jpg\" alt=\"Blockchain UBC\" class=\"project-img\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  &lt;h3&gt;Blockchain @ UBC&lt;/h3&gt;\n  &lt;p&gt;\n    Blockchain research and ecosystem at UBC.\n  &lt;/p&gt;\n&lt;/div&gt;",
-    "crumbs": [
-      "Projects"
-    ]
-  },
-  {
-    "objectID": "index.html#get-in-touch",
-    "href": "index.html#get-in-touch",
-    "title": "\nAbeba N. Turi (Ph.D.)\n",
-    "section": "Get in Touch",
-    "text": "Get in Touch\n\nEmail: abeba.nigussie@ucanwest.ca\n\nLinkedIn",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "\nAbeba N. Turi (Ph.D.)\n",
-    "section": "About Me",
-    "text": "About Me\nI’m a Data Scientist and Digital Economy specialist with a passion for inclusive innovation, tech policy, and AI readiness in emerging economies.\nI help organizations connect research, data, and industry impact through actionable insights and collaborative projects.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "\nAbeba N. Turi (Ph.D.)\n",
-    "section": "Education",
-    "text": "Education\n\nPhD in Digital Economy\nMaster of Data Science\nMSc in Economics & Finance",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#project-highlights",
-    "href": "index.html#project-highlights",
-    "title": "\nAbeba N. Turi (Ph.D.)\n",
-    "section": "Project Highlights",
-    "text": "Project Highlights",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#worked-with",
-    "href": "index.html#worked-with",
-    "title": "\nAbeba N. Turi (Ph.D.)\n",
-    "section": "Worked With",
-    "text": "Worked With",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#worked-with-1",
-    "href": "index.html#worked-with-1",
-    "title": "\nAbeba N. Turi (Ph.D.)\n",
-    "section": "Worked with",
-    "text": "Worked with",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "Test",
-    "section": "",
-    "text": "&lt;img src=\"/images/gus.png\" alt=\"GUS\"&gt;"
-  },
-  {
-    "objectID": "contact.html#test-inline-html-image",
-    "href": "contact.html#test-inline-html-image",
-    "title": "Test",
-    "section": "",
-    "text": "&lt;img src=\"/images/gus.png\" alt=\"GUS\"&gt;"
-  },
-  {
-    "objectID": "index.html#highlight-of-projects",
-    "href": "index.html#highlight-of-projects",
-    "title": "\nAbeba N. Turi (Ph.D.)\n",
-    "section": "Highlight of Projects",
-    "text": "Highlight of Projects",
     "crumbs": [
       "Home"
     ]
@@ -188,53 +40,43 @@
     ]
   },
   {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "\nAbeba N. Turi (Ph.D.)\n",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\n\n&lt;p&gt;Venture Analytics & Survival Risk Dashboard&lt;/p&gt;\n&lt;img src=\"/images/demo.gif\" alt=\"Dashboard GIF\" /&gt;\n\n\n&lt;p&gt;AI-Enhanced Credit Scoring&lt;/p&gt;\n&lt;img src=\"/images/ai_risk_framework.png\" alt=\"AI Risk Framework\" /&gt;\n\n\n&lt;p&gt;Democratizing AI for Inclusive Tech&lt;/p&gt;\n&lt;img src=\"/images/democratizingAI.png\" alt=\"Democratizing AI\" /&gt;\n\n\n&lt;p&gt;GUS Fellowship&lt;/p&gt;\n&lt;img src=\"/images/gus_fellowship.png\" alt=\"GUS Fellowship\" /&gt;",
+    "section": "Education",
+    "text": "Education\n\nPhD in Digital Economy\nMaster of Data Science\nMSc in Economics & Finance",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "index.html#research-interest-areas-1",
-    "href": "index.html#research-interest-areas-1",
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
     "title": "\nAbeba N. Turi (Ph.D.)\n",
-    "section": "Research Interest Areas",
-    "text": "Research Interest Areas\nYour research text here…",
+    "section": "Get in Touch",
+    "text": "Get in Touch\n\nEmail: abeba.nigussie@ucanwest.ca\n\nLinkedIn",
     "crumbs": [
       "Home"
     ]
   },
   {
-    "objectID": "projects.html#projects",
-    "href": "projects.html#projects",
-    "title": "My Projects",
-    "section": "",
-    "text": "&lt;img src=\"images/project1.jpg\" class=\"project-img\" alt=\"Project 1 Image\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  ### Project One\n  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo.\n&lt;/div&gt;\n\n\n&lt;img src=\"images/project2.jpg\" class=\"project-img\" alt=\"Project 2 Image\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  ### Project Two\n  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.\n&lt;/div&gt;\n\n\n&lt;img src=\"images/project3.jpg\" class=\"project-img\" alt=\"Project 3 Image\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  ### Project Three\n  Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos.\n&lt;/div&gt;",
+    "objectID": "index.html#worked-with",
+    "href": "index.html#worked-with",
+    "title": "\nAbeba N. Turi (Ph.D.)\n",
+    "section": "Worked With",
+    "text": "Worked With",
     "crumbs": [
-      "Projects"
+      "Home"
     ]
   },
   {
-    "objectID": "projects.html#my-projects",
-    "href": "projects.html#my-projects",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "&lt;img src=\"images/project1.jpg\" class=\"project-img\" alt=\"Project 1\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  &lt;h3&gt;Project One&lt;/h3&gt;\n  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin gravida dolor sit amet lacus accumsan et viverra.&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;img src=\"images/project2.jpg\" class=\"project-img\" alt=\"Project 2\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  &lt;h3&gt;Project Two&lt;/h3&gt;\n  &lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;img src=\"images/project3.jpg\" class=\"project-img\" alt=\"Project 3\"&gt;\n&lt;div class=\"project-desc\"&gt;\n  &lt;h3&gt;Project Three&lt;/h3&gt;\n  &lt;p&gt;Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.&lt;/p&gt;\n&lt;/div&gt;",
+    "text": "AI in Risk Analytics\n      \n        Two principal theme: (1) AI-Enhanced Credit Scoring- Using mobile usage and social behavior data to unlock access to credit in underbanked regions (MENA). (2) AI for Enhanced Financial Risk Management- Development of a framework to enhance financial risk management in volatile markets. Specifically, we investigate how AI techniques can be effectively integrated to enhance financial risk management with an emphasis on scalability, explainability, and robustness in real-world applications.  \n        Goal: Inclusive, explainable AI for financial inclusion.\n      \n    \n  \n\n\n  \n  \n    \n    \n       Creative Destruction Lab Venture Accelerator Program Dashboard\n      \n        Developing a predictive analytics dashboard to model and visualize venture success through machine learning and Statistical techniques to inform business and investment decisions. It is an interdisciplinary project with teams from diverse academic background, integrating domain knowledge to startup ecosystems \n      \n    \n  \n\n \n\n  \n    \n  \n  \n    Trader’s Copilot: Trading Signals for Stock Markets\n    \n      Python package for ARIMA, Prophet, and LSTM-based financial forecasting with visual diagnostics.  \n    \n  \n\n\n  \n\n  \n    \n  \n  \n    Vehicle Dashboard\n    \n      Real-time dashboard for Canadian car market analysis using Dash. Includes insights on price and performance trends.\n    \n  \n\n\n\n \n\n  \n  \n    AI Decision-Making Systems and Algorithmic Futures (Upcoming Project)\n    \n      The project explores six main themes:  \n      (1) the evolution of the algorithm economy and its transformative role in governance, industry, finance, labor, and society;  \n      (2) Algorithmic decision-making systems including reinforcement learning for policy optimization and resource allocation;  \n      (3) Bayesian decision theory in high-stakes environments (e.g., healthcare, finance);  \n      (4) Data-centric AI and algorithmic infrastructure;  \n      (5) Algorithmic bias, fairness, and social impact modeling, along with responsible AI and secure deployment; and  \n      (6) E-waste: allocative efficiency in the algorithmic economy.\n      Part of the\n      \n        GUS Fellowship Program\n      .",
     "crumbs": [
       "Projects"
-    ]
-  },
-  {
-    "objectID": "publications.html#books",
-    "href": "publications.html#books",
-    "title": "Publications",
-    "section": "Books",
-    "text": "Books",
-    "crumbs": [
-      "Publications"
     ]
   }
 ]
