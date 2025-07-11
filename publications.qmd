@@ -1,0 +1,91 @@
+---
+title: "Publications"
+format: html
+toc: false
+---
+
+
+
+- **Tech Transformation and AI Readiness: Pioneering Paths for the Global South**  
+   *Edited by Abeba N. Turi & Paulos Teckle*  
+   Springer, 2024  
+   ISBN: 9783031736391
+- **The Surge in Blockchain-Based Patent Applications: Booster or Bumps?**  
+   *S. Tang, H. Cai, M. Xia, A. N. Turi*  
+   In *Financial Technologies and DeFi: A Revisit to the Digital Finance Revolution*, 2024
+-  **The What, So What, and What Now of the AI Landscape in Emerging Economies**  
+   *Val Anthony Borines, Abeba Nigussie Turi, Paul Hedru*  
+   *TENCON 2024, IEEE Region 10 Conference*, pp. 804–809, IEEE, December 2024
+
+- **Technologies for Modern Digital Entrepreneurship**  
+   *Abeba N. Turi*  
+   Apress, 2020  
+   ISBN: 9781484260043  
+   [SpringerLink](https://link.springer.com/book/10.1007/978-1-4842-6073-1)
+
+- **Innovation, Sustainability, and Technological Megatrends in the Face of Uncertainties**  
+   *Edited by Abeba N. Turi & Pooja Lekhi*  
+   Springer, 2023  
+   ISBN: 9783031428135
+
+- **Digital Economy and the Information Society**  
+   In *Tech Transformation and AI Readiness*, Springer, 2024
+
+- **Crowd-Based Digital Business Models**  
+   In *Tech Transformation and AI Readiness*, Springer, 2024
+
+- **Web 3.0: The Distributed Information Network Economy**  
+   In *Tech Transformation and AI Readiness*, Springer, 2024
+
+- **Blockchain and Distributed Ledger Technology Applications**  
+   In *Tech Transformation and AI Readiness*, Springer, 2024
+
+- **Currency Under the Web 3.0 Economy**  
+   In *Tech Transformation and AI Readiness*, Springer, 2024
+
+- **Financial Technologies and DeFi: A Revisit to the Digital Finance Revolution**  
+   In *Tech Transformation and AI Readiness*, Springer, 2024
+
+
+- **A Co-Utility Approach to the Mesh Economy: The Crowd-Based Business Model**  
+   *Turi, A. N., Domingo-Ferrer, J., Sánchez, D., Osmani, D.*  
+   *Review of Managerial Science*, 11(2), 411–442, 2017  
+   [DOI: 10.1007/s11846-016-0217-6](https://link.springer.com/article/10.1007/s11846-016-0217-6)
+
+- **Problems in the Undertakings of the Collaborative Economy: Co-Utile Solutions**  
+   *Turi, A. N., Domingo-Ferrer, J., Sánchez, D.*  
+   In *Privacy Technologies and Policy*, Springer, 2017
+
+- **Business-to-Business Deals Based on a Co-Utile Collaboration Mechanism: Designing Trust Company of the Future**  
+   *Bonazzi, R., Poli, M., Turi, A. N.*  
+   Proceedings of the International Conference on Business Information Systems, 2017
+
+- **Co-Utility: Conciliating Individual Freedom and Common Good in the Crowd-Based Business Model**  
+   *Turi, A. N., Domingo-Ferrer, J., Sánchez, D., Osmani, D.*  
+   Proceedings of the International Conference on Business Information Systems, 2015
+- **Business-to-Business Deals Based on a Co-Utile Collaboration Mechanism: Designing Trust Company of the Future**  
+   *Bonazzi, R., Poli, M., Turi, A. N.*  
+   Presented at the 20th International Conference on Business Information Systems (BIS), 2017  
+   [DOI: 10.1007/978-3-319-59336-4_11](https://link.springer.com/chapter/10.1007/978-3-319-59336-4_11)
+
+- **Co-Utility: Conciliating Individual Freedom and Common Good in the Crowd-Based Business Model**  
+   *Turi, A. N., Domingo-Ferrer, J., Sánchez, D., Osmani, D.*  
+   Presented at the 18th International Conference on Business Information Systems (BIS), 2015  
+   [DOI: 10.1007/978-3-319-19027-3_23](https://link.springer.com/chapter/10.1007/978-3-319-19027-3_23)
+
+
+## Books
+
+<div class="publications-gallery" style="display: flex; align-items: center; gap: 2rem; overflow-x: auto; white-space: nowrap;">
+  <img src="images/978-1-4842-6005-0.webp" alt="Technologies for Modern Digital Entrepreneurship" style="height: 200px; display: inline-block;">
+  <img src="images/978-3-031-17998-3.webp" alt="Financial Technologies and DeFi" style="height: 200px; display: inline-block;">
+  <img src="images/978-3-031-46189-7.webp" alt="Innovation, Sustainability, and Technological Megatrends" style="height: 200px; display: inline-block;">
+  <img src="images/978-3-031-73639-1.webp" alt="Tech Transformation and AI Readiness" style="height: 200px; display: inline-block;">
+  <img src="images/tech_transfomation_ai.jpg" alt="Tech Transformation and AI Readiness" style="height: 200px; display: inline-block;">
+</div>
+
+---
+
+
+
+

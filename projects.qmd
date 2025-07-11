@@ -1,0 +1,83 @@
+---
+title: "Projects"
+format: html
+---
+
+
+```{=html}
+<div class="project-gallery">
+
+  <!-- Project 1 -->
+  <div class="project-item">
+    <img src="images/creditscore.png" alt="Credit Scoring" class="project-img"/>
+    <div class="project-desc">
+      <h3>AI in Risk Analytics</h3>
+      <p>
+        Two principal theme: (1) AI-Enhanced Credit Scoring- Using mobile usage and social behavior data to unlock access to credit in underbanked regions (MENA). (2) AI for Enhanced Financial Risk Management- Development of a framework to enhance financial risk management in volatile markets. Specifically, we investigate how AI techniques can be effectively integrated to enhance financial risk management with an emphasis on scalability, explainability, and robustness in real-world applications.  
+        <strong>Goal:</strong> Inclusive, explainable AI for financial inclusion.
+      </p>
+    </div>
+  </div>
+
+
+  <!-- Project 3 -->
+  <div class="project-item">
+    <img src="images/cdl_demo.gif" alt="CDL Venture Mentorship Dashboard" class="project-img"/>
+    <div class="project-desc">
+      <h3> Creative Destruction Lab Venture Accelerator Program Dashboard</h3>
+      <p>
+        Developing a predictive analytics dashboard to model and visualize venture success through machine learning and Statistical techniques to inform business and investment decisions. It is an interdisciplinary project with teams from diverse academic background, integrating domain knowledge to startup ecosystems 
+      </p>
+    </div>
+  </div>
+
+ <!-- Project 4 -->
+<div class="project-item">
+  <a href="https://github.com/UBC-MDS/traders_copilot_mzza_25" target="_blank">
+    <img src="images/traderscopilot.png" alt="Trader's Copilot" class="project-img"/>
+  </a>
+  <div class="project-desc">
+    <h3>Trader’s Copilot: Trading Signals for Stock Markets</h3>
+    <p>
+      Python package for ARIMA, Prophet, and LSTM-based financial forecasting with visual diagnostics.  
+    </p>
+  </div>
+</div>
+
+  <!-- Project 5 -->
+<div class="project-item">
+  <a href="https://github.com/UBC-MDS/DSCI-532_2025_4_vdash" target="_blank">
+    <img src="images/vehicle_mrkt_demo.gif" alt="Vehicle Dashboard" class="project-img"/>
+  </a>
+  <div class="project-desc">
+    <h3>Vehicle Dashboard</h3>
+    <p>
+      Real-time dashboard for Canadian car market analysis using Dash. Includes insights on price and performance trends.
+    </p>
+  </div>
+</div>
+
+
+ <!-- Project 8 -->
+<div class="project-item">
+  <img src="images/AI_Algorithmic_Futures.png" alt="AI Decision-Making Systems" class="project-img"/>
+  <div class="project-desc">
+    <h3>AI Decision-Making Systems and Algorithmic Futures (Upcoming Project)</h3>
+    <p>
+      The project explores six main themes:  
+      (1) the evolution of the algorithm economy and its transformative role in governance, industry, finance, labor, and society;  
+      (2) Algorithmic decision-making systems including reinforcement learning for policy optimization and resource allocation;  
+      (3) Bayesian decision theory in high-stakes environments (e.g., healthcare, finance);  
+      (4) Data-centric AI and algorithmic infrastructure;  
+      (5) Algorithmic bias, fairness, and social impact modeling, along with responsible AI and secure deployment; and  
+      (6) E-waste: allocative efficiency in the algorithmic economy.
+      Part of the
+      <a href="https://www.gusinstitute.com/fellowship-2024" target="_blank">
+        GUS Fellowship Program
+      </a>.
+    </p>
+  </div>
+</div>
+
+```
+

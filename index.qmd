@@ -1,0 +1,68 @@
+---
+title: " "
+format:
+  html:
+    toc: false  
+---
+
+<div class="hero-with-feature">
+  <section class="about-hero">
+    <img src="images/UBC_20250626_MS_7938.jpg" alt="Abeba N. Turi" class="about-photo">
+    <h1>Abeba N. Turi (Ph.D.)</h1>
+    <p class="tagline">
+      I’m a Data Scientist and Digital Economist passionate about bridging academia and industry through teaching, research, consulting and innovation.
+    </p>
+  </section>
+
+</div>
+
+## Research Interest Areas
+
+My research interest areas include algorithm economy, digital economy, digital transformation, digital humanities, and information society, data science (machine learning and statistics), tech policy, tech strategies,  decentralization and disintermediation, mechanism design, business model design, and innovation,  algorithm design, decentralization and disintermediation. I am particularly interested in emerging technologies such as AI, FinTech, and distributed ledger technologies.
+
+## Education
+
+- PhD in Digital Economy
+- Master of Data Science
+- MSc in Economics & Finance
+
+## Get in Touch
+
+- Email: [abeba.nigussie@ucanwest.ca](mailto:abeba.nigussie@ucanwest.ca)  
+- [LinkedIn](https://www.linkedin.com/in/abeba-n-turi-a70904a5/)
+
+## Worked With
+
+<div class="logo-gallery">
+  ![](/images/gus.png)
+  ![](/images/UNESCO.png)
+  ![](/images/creative_distruction.png)
+  ![](/images/UCW_LOGO-(002).png)
+  ![](/images/NEU.png)
+</div>
+
+</div> <!-- end main-content -->
+
+
+<div class="custom-sidebar">
+
+::: {.featured-highlight}
+
+### Featured Projects
+
+<div class="featured-gallery">
+
+- Venture Analytics & Survival Risk Analysis Dashboard
+  
+- AI-Enhanced Credit Scoring 
+
+- Democratizing AI for Inclusive Tech Transformation: Pathways for the Global South
+  
+  <img src="/images/gus_fellowship.png" alt="GUS Fellowship" />
+
+</div>
+
+:::
+
+
+</div> <!-- end content-with-sidebar -->
