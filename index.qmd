@@ -16,15 +16,54 @@ format:
 
 </div>
 
+
 ## Research Interest Areas
 
-My research interest areas include algorithm economy, digital economy, digital transformation, digital humanities, and information society, data science (machine learning and statistics), tech policy, tech strategies,  decentralization and disintermediation, mechanism design, business model design, and innovation,  algorithm design, decentralization and disintermediation. I am particularly interested in emerging technologies such as AI, FinTech, and distributed ledger technologies.
+- Digital economy and algorithmic systems  
+- AI innovation and tech policy    
+- Fintech, blockchain, and DeFi ecosystems  
+- Platform economies and collective intelligence  
+- Data Science (machine learning and statistics)
+- Analytics  
+- Economic analysis  
+- Mechanism design  
+- Business model innovation and design  
+- Cryptoeconomics  
+- Emerging tech applications 
+- Digital transformation
+- e-commerce strategies
+- Decentralization and disintermediation
+- Mechanism design
+- Business model design, and innovation
+
+I am particularly interested in emerging technologies such as AI, FinTech, and distributed ledger technologies.
+
+--- 
 
 ## Education
 
 - PhD in Digital Economy
 - Master of Data Science
 - MSc in Economics & Finance
+
+---
+
+## Teaching & Course Development
+
+- Risk Management for Analytics  
+- Business Analytics  
+- Quantitative Reasoning & Analysis  
+- Digital Transformation  
+- Leadership in Analytics  
+- Business Economics  
+- Research Methods  
+- Canadian Microeconomic Policy  
+- Business Ethics and Strategy  
+- Advanced Microeconomics  
+- Intermediate Economics  
+- Statistics for Economists
+
+---
 
 ## Get in Touch
 

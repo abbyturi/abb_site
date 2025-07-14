@@ -5,6 +5,9 @@ toc: false
 ---
 
 
+## Publications
+
+List of publications available at [Google Scholar](https://scholar.google.ca/citations?user=nsNs_BEAAAAJ&hl=en&oi=ao)
 
 - **Tech Transformation and AI Readiness: Pioneering Paths for the Global South**  
    *Edited by Abeba N. Turi & Paulos Teckle*  
@@ -72,6 +75,29 @@ toc: false
    *Turi, A. N., Domingo-Ferrer, J., Sánchez, D., Osmani, D.*  
    Presented at the 18th International Conference on Business Information Systems (BIS), 2015  
    [DOI: 10.1007/978-3-319-19027-3_23](https://link.springer.com/chapter/10.1007/978-3-319-19027-3_23)
+
+
+## Conferences
+
+- TENCON 2024 – IEEE Region 10 Conference, Singapore, December 2024  
+  Presentation: "The What, So What, and What Now of the AI Landscape in Emerging Economies"  
+- The 7th Joint Bank of Canada and Payments Canada Symposium, September 16–17, 2021  
+- Public Lecture: Blockchain for the WeWork community, Vancouver, Feb 25, 2020  
+- Africa Business Forum 2020, Vancouver, January 2020  
+  Presentation: Panelist – “FinTech in Africa: Reshaping the Financial System”  
+- Vancouver Impact Fest, November 2019  
+  Presentation: "Digital Economy, Decentralized Networks and the Blockchain Tech"  
+- Our2030 Research Studio, YouthClimate Lab, Vancouver, April 2019  
+- Advanced Digital Innovation Summit, Vancouver, September 2017  
+- Digital Platforms for the Collaborative Economy, Sheffield, UK, August 2017  
+  Presentation: "Collaborative Housing: Disintermediating the Real Estate Market through Blockchain"  
+- ICBIR 2017, Venice, Italy  
+  Presentation: "B2B Deals Based on a Co-utile Collaboration Mechanism"  
+- Applied Computing 2016, Mannheim, Germany  
+  Presentation: "Filtering P2P Loans Based on Co-Utile Reputation"  
+- Internet, Law, and Politics Conference, Barcelona, Spain, July 2016  
+- e-Business Engineering Conference, Beijing, China, October 2015  
+  Presentation: "Co-utility: Conciliating Individual Freedom and Common Good"
 
 
 ## Books
