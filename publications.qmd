@@ -5,8 +5,6 @@ toc: false
 ---
 
 
-## Publications
-
 List of publications available at [Google Scholar](https://scholar.google.ca/citations?user=nsNs_BEAAAAJ&hl=en&oi=ao)
 
 - **Tech Transformation and AI Readiness: Pioneering Paths for the Global South**  
