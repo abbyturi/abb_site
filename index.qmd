@@ -38,7 +38,6 @@ format:
 
 I am particularly interested in emerging technologies such as AI, FinTech, and distributed ledger technologies.
 
---- 
 
 ## Education
 
@@ -46,7 +45,6 @@ I am particularly interested in emerging technologies such as AI, FinTech, and d
 - Master of Data Science
 - MSc in Economics & Finance
 
----
 
 ## Teaching & Course Development
 
@@ -62,8 +60,6 @@ I am particularly interested in emerging technologies such as AI, FinTech, and d
 - Advanced Microeconomics  
 - Intermediate Economics  
 - Statistics for Economists
-
----
 
 ## Get in Touch
 
