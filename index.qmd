@@ -20,7 +20,8 @@ format:
 ## Research Interest Areas
 
 - Digital economy and algorithmic systems  
-- AI innovation and tech policy    
+- AI innovation and tech policy 
+- Sustainability, green economy, and green technology innovation   
 - Fintech, blockchain, and DeFi ecosystems  
 - Platform economies and collective intelligence  
 - Data Science (machine learning and statistics)
