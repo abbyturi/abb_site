@@ -63,7 +63,7 @@ format: html
     <div class="project-desc">
       <h3>Innovation, Sustainability and Technological Megatrends </h3>
       <p>
-        <em>Innovation, Sustainability, and Technological Megatrends in the Face of Uncertainties: Core Developments and Solutions - </em>  explores how emerging technologies intersect with sustainability, economic resilience, and regulatory adaptation amidst global instability. 
+        The project explores how emerging technologies intersect with sustainability, economic resilience, and regulatory adaptation amidst global instability. 
         <strong>Goal:</strong> Illuminate how technological megatrends can be harnessed to support sustainable development, accountability, and resilient innovation strategies.
       </p>
     </div>
