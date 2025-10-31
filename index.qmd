@@ -62,6 +62,13 @@ I am particularly interested in emerging technologies such as AI, FinTech, and d
 - Intermediate Economics  
 - Statistics for Economists
 
+#### Sample Teaching Demo
+
+[Risk Analysis AI Driven Automation](https://github.com/abbyturi/risk_analysis_mock)
+A teaching portfolio that walks through an end to end risk severity classification pipeline using a Random Forest Classifier. The project demonstrates data ingestion, scoring, modeling, and visualization with a real world case on AI driven immigration risk assessment. It is designed for clarity and instructional value, highlighting fairness, transparency, and interpretability. 
+
+1. 
+
 ## Get in Touch
 
 - Email: [abeba.nigussie@ucanwest.ca](mailto:abeba.nigussie@ucanwest.ca)  
@@ -88,6 +95,8 @@ I am particularly interested in emerging technologies such as AI, FinTech, and d
 
 <div class="featured-gallery">
 
+- Smart Food Recovery & Sustainability interactive Dashboard with AI/ML enhancements for forecasting, anomaly detection, and reporting.
+  
 - Venture Analytics & Survival Risk Analysis Dashboard
   
 - AI-Enhanced Credit Scoring 

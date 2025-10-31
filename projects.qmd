@@ -7,7 +7,39 @@ format: html
 ```{=html}
 <div class="project-gallery">
 
-  <!-- Project 1 -->
+<!-- Project 1 -->
+<div class="project-item">
+  <img src="images/foodlink_dashboard.png" alt="Smart Food Recovery Dashboard" class="project-img"/>
+  <div class="project-desc">
+    <h3>Smart Food Recovery and Sustainability Dashboard</h3>
+    <p>
+      Partnered with <a href="https://foodlinksociety.ca/" target="_blank">Food Link Society</a>, 
+      a local nonprofit focused on reducing food waste and increasing community food security, 
+      to design and deploy a modern <strong>data dashboard</strong> that advances environmental 
+      sustainability and social impact.
+    </p>
+    <ul>
+      <li>Multi-tab interactive dashboard (Operations, Clients, Data Management) tracking food recovery, distribution, and client impact.</li>
+      <li>ETL workflows ingesting FoodMesh and Excel donation records with automated cleaning, aggregation, and visualization.</li>
+      <li>Geospatial analysis (maps, company/store tracking) with double-dipping logic to ensure accurate household counts.</li>
+      <li>Real-time metrics on food waste diversion, household reach, and volunteer activity to strengthen reporting and grant proposals.</li>
+      <li>AI/ML enhancements including demand and supply forecasting, anomaly detection, automated data cleaning, and monthly summary generation.</li>
+    </ul>
+    <div class="video-container" style="margin-top: 1rem;">
+      <iframe width="100%" height="315" 
+              src="https://www.youtube.com/embed/CcCGjGRm02o" 
+              title="Food Link Society Dashboard Demo" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Project 1 -->
   <div class="project-item">
     <img src="images/creditscore.png" alt="Credit Scoring" class="project-img"/>
     <div class="project-desc">
