@@ -67,7 +67,7 @@ I am particularly interested in emerging technologies such as AI, FinTech, and d
 [Risk Analysis AI Driven Automation](https://github.com/abbyturi/risk_analysis_mock)
 A teaching portfolio that walks through an end to end risk severity classification pipeline using a Random Forest Classifier. The project demonstrates data ingestion, scoring, modeling, and visualization with a real world case on AI driven immigration risk assessment. It is designed for clarity and instructional value, highlighting fairness, transparency, and interpretability. 
 
-[Professional Analytics Repo Setup (GitHub | Cookiecutter | CRISP-DM)](https://github.com/abbyturi)
+[Professional Analytics Repo Setup (GitHub | Cookiecutter | CRISP-DM)](https://youtu.be/5-tAZi28kRA)
 A teaching demo illustrating how to set up a professional analytics repository using GitHub, the CRISP-DM framework, and Cookiecutter for structured, reproducible workflows. The walkthrough covers repo initialization, branch protection, automation with GitHub Actions, and project scaffolding for analytics teams.
 
 <div class="video-container" style="margin-top: 1rem;">
@@ -80,15 +80,13 @@ A teaching demo illustrating how to set up a professional analytics repository u
   </iframe>
 </div>
 
-#### Sample Teaching Demo
-
-[Risk Analysis AI Driven Automation](https://github.com/abbyturi/risk_analysis_mock)  
-A teaching portfolio that walks through an end-to-end risk severity classification pipeline using a Random Forest Classifier. The project demonstrates data ingestion, scoring, modeling, and visualization with a real-world case on AI-driven immigration risk assessment. It is designed for clarity and instructional value, highlighting fairness, transparency, and interpretability.
+[Food Link Society Dashboard: Turning Data into Action for a Greener Future](https://www.youtube.com/watch?v=CcCGjGRm02o)  
+A real-world teaching demo showcasing a multi-tab data dashboard built for British Columbia’s largest food recovery nonprofit. The project integrates data engineering, forecasting, and client analytics to illustrate how data science can drive measurable social and environmental impact.
 
 <div class="video-container" style="margin-top: 1rem;">
   <iframe width="100%" height="315"
           src="https://www.youtube.com/embed/CcCGjGRm02o"
-          title="Risk Analysis AI Driven Automation"
+          title="Food Link Society Dashboard: Turning Data into Action for a Greener Future"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen>
