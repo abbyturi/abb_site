@@ -80,7 +80,7 @@ A teaching demo illustrating how to set up a professional analytics repository u
   </iframe>
 </div>
 
-[Food Link Society Dashboard: Turning Data into Action for a Greener Future](https://www.youtube.com/watch?v=CcCGjGRm02o)  
+[Dashboard: Turning Data into Action](https://www.youtube.com/watch?v=CcCGjGRm02o)  
 A real-world teaching demo showcasing a multi-tab data dashboard built for British Columbia’s largest food recovery nonprofit. The project integrates data engineering, forecasting, and client analytics to illustrate how data science can drive measurable social and environmental impact.
 
 <div class="video-container" style="margin-top: 1rem;">
