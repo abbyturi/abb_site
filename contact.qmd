@@ -1,0 +1,42 @@
+# Contact Pacific TechFronts Lab
+
+## Let's Start a Conversation
+
+Whether you're exploring a business intelligence dashboard, analytics project, AI strategy initiative, research collaboration, or professional training program, we'd be pleased to learn more about your goals.
+
+Please complete the inquiry form below and a member of our team will follow up to discuss your needs.
+
+<div class="contact-form-card">
+
+<form action="https://formspree.io/f/https://formspree.io/f/xykankkb" method="POST">
+
+<label for="name">Full Name *</label>
+<input type="text" id="name" name="name" required>
+
+<label for="organization">Organization / Company</label>
+<input type="text" id="organization" name="organization">
+
+<label for="email">Email Address *</label>
+<input type="email" id="email" name="email" required>
+
+<label for="phone">Phone Number (Please, include area code)</label>
+<input type="tel" id="phone" name="phone">
+
+<label for="message">Project Description *</label>
+<textarea
+  id="message"
+  name="message"
+  rows="8"
+  placeholder="Tell us about your project, objectives, challenges, or training requirements."
+  required></textarea>
+
+<input type="hidden"
+       name="_subject"
+       value="New Pacific TechFronts Lab Inquiry">
+
+<button type="submit">Submit Inquiry</button>
+
+</form>
+
+</div>
+

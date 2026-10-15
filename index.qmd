@@ -1,138 +1,133 @@
 ---
-title: " "
+title: ""
+title-block: false
 format:
   html:
-    toc: false  
+    toc: false
+    css: styles.css
 ---
 
-<div class="hero-with-feature">
-  <section class="about-hero">
-    <img src="images/UBC_20250626_MS_7938.jpg" alt="Abeba N. Turi" class="about-photo">
-    <h1>Abeba N. Turi (Ph.D.)</h1>
-    <p class="tagline">
-      I’m a Data Scientist and Digital Economist passionate about bridging academia and industry through teaching, research, consulting and innovation.
-    </p>
-  </section>
+```{=html}
+<div class="hero-video-container">
+
+  <video class="hero-video" autoplay muted loop playsinline preload="auto" poster="images/hero-background.jpg">
+    <source src="images/try_this_Cinematic_technolog.mp4" type="video/mp4">
+  </video>
+
+  <div class="hero-video-overlay">
+    <section class="about-hero">
+      <h1>Pacific TechFronts Lab</h1>
+
+      <p class="tagline">
+        Turning data, research, and AI innovation into smarter decisions and measurable impact.
+      </p>
+
+      <p>
+        Pacific TechFronts Lab is a consulting and innovation lab specializing in data analytics, 
+        business intelligence, applied research, artificial intelligence, and professional training. 
+        We help organizations transform complex data into actionable intelligence, develop AI-driven solutions, 
+        strengthen analytics capabilities, and design evidence-based strategies that accelerate digital transformation and sustainable growth.
+      </p>
+    </section>
+  </div>
 
 </div>
+```
 
+Our lab supports organizations across diverse sectors through data analytics consulting, business intelligence, 
+dashboard development, applied research, and AI-driven solutions that enable informed decision-making and sustainable growth.
 
-## Research Interest Areas
-
-- Digital economy and algorithmic systems  
-- AI innovation and tech policy 
-- Sustainability, green economy, and green technology innovation   
-- Fintech, blockchain, and DeFi ecosystems  
-- Platform economies and collective intelligence  
-- Data Science (machine learning and statistics)
-- Analytics  
-- Economic analysis  
-- Mechanism design  
-- Business model innovation and design  
-- Cryptoeconomics  
-- Emerging tech applications 
-- Digital transformation
-- e-commerce strategies
-- Decentralization and disintermediation
-- Mechanism design
-- Business model design, and innovation
-
-I am particularly interested in emerging technologies such as AI, FinTech, and distributed ledger technologies.
-
-
-## Education
-
-- PhD in Digital Economy
-- Master of Data Science
-- MSc in Economics & Finance
-
-
-## Teaching & Course Development
-
-- Risk Management for Analytics  
-- Business Analytics  
-- Quantitative Reasoning & Analysis  
-- Digital Transformation  
-- Leadership in Analytics  
-- Business Economics  
-- Research Methods  
-- Canadian Microeconomic Policy  
-- Business Ethics and Strategy  
-- Advanced Microeconomics  
-- Intermediate Economics  
-- Statistics for Economists
-
-#### Sample Teaching Demo
-
-[Risk Analysis AI Driven Automation](https://github.com/abbyturi/risk_analysis_mock)
-A teaching portfolio that walks through an end to end risk severity classification pipeline using a Random Forest Classifier. The project demonstrates data ingestion, scoring, modeling, and visualization with a real world case on AI driven immigration risk assessment. It is designed for clarity and instructional value, highlighting fairness, transparency, and interpretability. 
-
-[Professional Analytics Repo Setup (GitHub | Cookiecutter | CRISP-DM)](https://youtu.be/5-tAZi28kRA)
-A teaching demo illustrating how to set up a professional analytics repository using GitHub, the CRISP-DM framework, and Cookiecutter for structured, reproducible workflows. The walkthrough covers repo initialization, branch protection, automation with GitHub Actions, and project scaffolding for analytics teams.
-
-<div class="video-container" style="margin-top: 1rem;">
-  <iframe width="100%" height="315"
-          src="https://www.youtube.com/embed/5-tAZi28kRA"
-          title="GitHub Repo Setup | CRISP-DM & Cookiecutter"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen>
-  </iframe>
+```{=html}
+<div class="home-transition">
+  <h2>From Data to Strategic Action</h2>
+  <p>
+    We help organizations move from fragmented data to clear insight, practical strategy,
+    and measurable impact.
+  </p>
 </div>
+```
 
-[Dashboard: Turning Data into Action](https://www.youtube.com/watch?v=CcCGjGRm02o)  
-A real-world teaching demo showcasing a multi-tab data dashboard built for British Columbia’s largest food recovery nonprofit. The project integrates data engineering, forecasting, and client analytics to illustrate how data science can drive measurable social and environmental impact.
+## What We Do
 
-<div class="video-container" style="margin-top: 1rem;">
-  <iframe width="100%" height="315"
-          src="https://www.youtube.com/embed/CcCGjGRm02o"
-          title="Food Link Society Dashboard: Turning Data into Action for a Greener Future"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen>
-  </iframe>
+```{=html}
+<div class="service-grid">
+  <div class="service-card">
+    <h3>Data Analytics</h3>
+    <p>We design analytical workflows, predictive models, and decision-support tools that help organizations understand performance, risk, and opportunity.</p>
+  </div>
+
+  <div class="service-card">
+    <h3>Business Intelligence</h3>
+    <p>We build dashboards, KPI systems, executive reporting tools, and performance-monitoring solutions that turn operational data into clear insight.</p>
+  </div>
+
+  <div class="service-card">
+    <h3>Applied Research</h3>
+    <p>We support evidence-based decision-making through impact evaluation, policy analysis, market research, and digital economy research.</p>
+  </div>
+
+  <div class="service-card">
+    <h3>Training &amp; Capacity Building</h3>
+    <p>We deliver customized training in analytics, AI, business intelligence, research methods, and digital transformation for teams and leaders.</p>
+  </div>
 </div>
+```
 
-
-## Get in Touch
-
-- Email: [abeba.nigussie@ucanwest.ca](mailto:abeba.nigussie@ucanwest.ca)  
-- [LinkedIn](https://www.linkedin.com/in/abeba-n-turi-a70904a5/)
-
-## Worked With
-
-<div class="logo-gallery">
-  ![](/images/gus.png)
-  ![](/images/UNESCO.png)
-  ![](/images/creative_distruction.png)
-  ![](/images/UCW_LOGO-(002).png)
-  ![](/images/NEU.png)
+```{=html}
+<div class="home-transition">
+  <h2>Analytics, AI, and Research in One Place</h2>
+  <p>
+    Pacific TechFronts Lab combines technical analytics, applied research, and training
+    to support smarter decision-making.
+  </p>
 </div>
+```
 
-</div> <!-- end main-content -->
+## Solutions We Deliver
 
+- Executive dashboards and KPI reporting systems
+- AI and machine learning decision-support tools
+- Business intelligence and performance analytics
+- Workforce and productivity analytics
+- Program evaluation and impact measurement
+- AI readiness and digital transformation strategy
+- Financial, risk, and sustainability analytics
+- Training programs for analytics teams and decision-makers
 
-<div class="custom-sidebar">
+```{=html}
+<div class="home-transition">
+  <h2>Built for Decision-Makers</h2>
+  <p>
+    Reliable dashboards, evidence, and actionable recommendations for executives,
+    program leaders, researchers, and teams.
+  </p>
+</div>
+```
 
-::: {.featured-highlight}
+## Featured Projects
 
-### Featured Projects
-
+```{=html}
 <div class="featured-gallery">
+  <h3>Smart Food Recovery &amp; Sustainability Dashboard</h3>
+  <p>An interactive analytics dashboard with AI/ML enhancements for forecasting, anomaly detection, reporting, and sustainability decision-making.</p>
 
-- Smart Food Recovery & Sustainability interactive Dashboard with AI/ML enhancements for forecasting, anomaly detection, and reporting.
-  
-- Venture Analytics & Survival Risk Analysis Dashboard
-  
-- AI-Enhanced Credit Scoring 
+  <h3>Venture Analytics &amp; Survival Risk Analysis</h3>
+  <p>A data-driven framework for assessing venture performance, startup risk, and business survival patterns.</p>
 
-- Democratizing AI for Inclusive Tech Transformation: Pathways for the Global South
-  
-  <img src="/images/gus_fellowship.png" alt="GUS Fellowship" />
-
+  <h3>AI-Enhanced Credit Scoring</h3>
+  <p>Machine learning approaches for assessing creditworthiness, with attention to financial inclusion and responsible AI.</p>
 </div>
+```
 
-:::
+## Recent Analytics Engagements
 
-
-</div> <!-- end content-with-sidebar -->
+```{=html}
+<div class="logo-gallery static-logo-gallery client-logo-gallery">
+  <img src="images/empowherto.png" alt="EmpowHERto">
+  <img src="images/creative_distruction.png" alt="Creative Destruction Lab">
+  <img src="images/safespace.png" alt="Safe Space Counselling">
+  <img src="images/llsc.png" alt="Leukemia &amp; Lymphoma Society of Canada">
+  <img src="images/datastam.png" alt="Datastam">
+  <img src="images/ccs.png" alt="Canadian Cardiovascular Society">
+</div>
+```
